@@ -1,22 +1,16 @@
 {
   "tasks": [
     {
-      "id": "1",
-      "text": "Doctors Appointment",
-      "day": "Feb 5th",
-      "reminder": true
+      "id": "3156",
+      "text": "Submit WAD CASE Study",
+      "day": "Monday 11 AM",
+      "reminder": false
     },
     {
-      "id": "2",
-      "text": "Meeting at school",
-      "day": "Feb 6th",
-      "reminder": true
-    },
-    {
-      "id": "493d",
-      "text": "task",
-      "day": "tmrw",
-      "reminder": true
+      "id": "d00b",
+      "text": "IP Exam",
+      "day": "Monday 10 AM",
+      "reminder": false
     }
   ]
 }
